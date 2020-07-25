@@ -10,7 +10,7 @@ Follow these steps for starting your project.
 - [ ] Add your _Team Lead_ as collaborator on your repository.
 - [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
 - [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ ] P/data/car-dealer.db3ush commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
@@ -21,7 +21,7 @@ Follow these steps for completing your project.
 ## Minimum Viable Product
 
 - Using `knex migrations`, design and write a schema for the `cars` table using the specifications below.
-- Configure `knex` to connect to a `/data/car-dealer.db3` database using the `sqlite3` npm module.
+- Configure `knex` to connect to a `` database using the `sqlite3` npm module.
 - Write endpoints to support `CREATE` and `READ` operations on the `cars` resource.
 - Use a rest client like _Insomnia_ or _Postman_ to test your API.
 
